@@ -1,0 +1,11 @@
+- Instalar o LAMP no UbuntuServer 20.04LTS:
+	https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-pt
+
+- WordPress no UbuntuServer 20.04LTS:
+	https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-ubuntu-20-04-with-a-lamp-stack-pt
+
+- Aproveitando e instalando o JAVA!
+  Após sistema atualizado:
+    " sudo apt update --fix-missing && sudo apt install -f && sudo dpkg --configure -a && sudo apt-get autoremove && sudo apt-get autoclean "
+    " apt update -y ; apt dist-upgrade -y "
+    
